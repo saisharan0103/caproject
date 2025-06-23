@@ -1,0 +1,8 @@
+node_modules/
+# build artifacts
+build/
+dist/
+# editor directories and files
+.idea/
+.vscode/
+*.log
